@@ -1,0 +1,1 @@
+Put your downloaded GloVe file here. Downloaded from: http://nlp.stanford.edu/projects/glove/
