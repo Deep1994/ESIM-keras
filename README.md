@@ -3,7 +3,9 @@ This repository is a keras implementation about the ESIM model proposed in paper
 
 # Requirements
 
-+ keras, tested on 2.3.1, with tensorflow 1.14.0 as its backend
++ keras, tested on 2.3.1, with tensorflow 1.14.0 as its backend.
++ python 3.5+
++ NLTK
 
 # Usage 
 
